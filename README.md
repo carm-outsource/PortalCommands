@@ -10,7 +10,8 @@
 # PortalCommands
 
 当玩家进入传送门时执行对应指令。
-~~~~
+
+
 ## 依赖
 
 - **[必须]** 插件本体基于 [Spigot-API](https://hub.spigotmc.org/stash/projects/SPIGOT) 、[BukkitAPI](http://bukkit.org/) 实现。~~~~
