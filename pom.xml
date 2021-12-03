@@ -82,6 +82,11 @@
 
     <distributionManagement>
         <downloadUrl>${project.url}/releases</downloadUrl>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/CarmJos/${project.name}</url>
+        </repository>
     </distributionManagement>
 
     <dependencies>
