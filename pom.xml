@@ -6,7 +6,7 @@
 
     <groupId>cc.carm.plugom</groupId>
     <artifactId>portalcommands</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>PortalCommands</name>
     <description>当玩家进入传送门时执行对应指令。</description>
