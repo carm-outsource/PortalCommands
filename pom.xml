@@ -13,7 +13,7 @@
 
     <groupId>cc.carm.plugin</groupId>
     <artifactId>portalcommands</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <name>PortalCommands</name>
     <description>当玩家进入传送门时执行对应指令。</description>
@@ -28,6 +28,14 @@
         <system>GitHub Actions</system>
         <url>${project.url}/actions/workflows/maven.yml</url>
     </ciManagement>
+
+    <licenses>
+        <license>
+            <name>GNU General Public License v3.0</name>
+            <url>https://opensource.org/licenses/GPL-3.0</url>
+        </license>
+    </licenses>
+
     <developers>
         <developer>
             <id>CarmJos</id>
